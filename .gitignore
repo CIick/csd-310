@@ -127,3 +127,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+MangoDB/.idea/.name
+MangoDB/.idea/inspectionProfiles/profiles_settings.xml
+MangoDB/.idea/MangoDB.iml
+MangoDB/.idea/misc.xml
+MangoDB/.idea/modules.xml
