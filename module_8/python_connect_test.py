@@ -13,7 +13,7 @@ config = {
 
 try:
     db = mysql.connector.connect(**config)
-    print("\n Database User {} connected to  MySQL on Host {} with database {}".format(config["user"], config['host'], config['database']))
+    print("\n Database User {} connected to MySQL on Host {} with database {}".format(config["user"], config['host'], config['database']))
 
     input("\n\n Press any key to continue...")
 
